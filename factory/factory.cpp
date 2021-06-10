@@ -9,6 +9,7 @@ enum PRODUCT_TYPE
   PRODUCTB,
   PRODUCT_NUM
 };
+
 // 产品基类
 class Product
 {
