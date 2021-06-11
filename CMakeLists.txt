@@ -5,6 +5,7 @@ Project(DesignPatterns)
 Set(PATTERNS
     factory
     abstract_factory
+    builder
 )
 
 foreach(pattern IN ITEMS ${PATTERNS})
