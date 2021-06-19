@@ -7,6 +7,7 @@ Set(PATTERNS
     abstract_factory
     builder
     singleton
+    prototype
 )
 
 foreach(pattern IN ITEMS ${PATTERNS})
