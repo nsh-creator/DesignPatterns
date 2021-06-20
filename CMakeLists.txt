@@ -8,6 +8,7 @@ Set(PATTERNS
     builder
     singleton
     prototype
+    adapter
 )
 
 foreach(pattern IN ITEMS ${PATTERNS})
