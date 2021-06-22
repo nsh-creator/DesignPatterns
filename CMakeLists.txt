@@ -9,6 +9,7 @@ Set(PATTERNS
     singleton
     prototype
     adapter
+    bridge
 )
 
 foreach(pattern IN ITEMS ${PATTERNS})
