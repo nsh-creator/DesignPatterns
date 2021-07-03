@@ -5,6 +5,8 @@ using namespace std;
 class Template
 {
 public:
+    virtual ~Template(){};
+
     void run() {
         step1();
         step2();
