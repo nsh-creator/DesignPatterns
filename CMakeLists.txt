@@ -10,6 +10,7 @@ Set(PATTERNS
     prototype
     adapter
     bridge
+    template
 )
 
 foreach(pattern IN ITEMS ${PATTERNS})
